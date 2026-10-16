@@ -1,0 +1,10 @@
+{
+  "destinations": [],
+  "ports": [20, 21, 22, 25, 80, 110, 143, 443, 3389],
+  "udp_ports": [53, 67, 68],
+  "poll_interval": 0.5,
+  "resolve_interval": 60,
+  "log_file": "connections.log",
+  "notify": true,
+  "notify_timeout": 5000
+}
